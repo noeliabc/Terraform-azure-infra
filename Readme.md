@@ -29,3 +29,21 @@ Ideal para practicar despliegues reales en la nube.
 
 ```bash
 az login
+
+## 🚀 ¿Cómo usarlo?
+
+```bash
+# 1. Autenticarse en Azure
+az login
+
+# 2. Inicializar el proyecto
+terraform init
+
+# 3. Ver el plan de ejecución
+terraform plan
+
+# 4. Aplicar los cambios
+terraform apply
+
+# 5. (Opcional) Destruir los recursos cuando ya no los necesites
+terraform destroy
