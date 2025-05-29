@@ -1,5 +1,5 @@
 # ☁️ Terraform - Infraestructura en Azure
-![Banner](./banner.png)
+![Banner](./D846E0F6-CDDD-4DB5-BECE-05ED0D1A6A9A.png)
 Este proyecto crea una infraestructura básica en Microsoft Azure usando Terraform.  
 Ideal para practicar despliegues reales en la nube.
 
